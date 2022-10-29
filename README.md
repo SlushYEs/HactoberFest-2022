@@ -1,10 +1,11 @@
 # HactoberFest-2022
+![hacktoberfest-2018-promo-poster](https://user-images.githubusercontent.com/113896476/198841276-b2cc46e6-f4a4-4f10-ba57-f1c3986d4bae.jpg)
 
-Hi. &nbsp;👋🏽 &nbsp;👋 &nbsp;**We are happy you are here.**&nbsp; 🎉&nbsp;🌟
+Hi. &nbsp;👋🏽 &nbsp;👋 &nbsp;**We are happy you are here.**&nbsp; 🎉&nbsp; **to perticipate in world largest feast of Open Source contribution in the world**🌟
 ## Web Dev Directory
 
 Great project to get your first PR in!
-### Technologies used 🛠
+### Technologies required 🛠
 <p align="left"> 
  <img src="https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
