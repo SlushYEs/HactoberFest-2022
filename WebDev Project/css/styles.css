@@ -5,6 +5,7 @@
 .contact-me{color: #04587c;
             height: 275px;}
 .footer-links{color: #04587c;
+            background-color:#3F3B6C;
              margin-top: 2em;
              margin-right: 60px;}
 .skill-row{width: 50%;
@@ -79,3 +80,4 @@ hr{border-top: 10px dotted;
            background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
            text-decoration: none;}
 .copyright{padding-top: 30px;}
+
