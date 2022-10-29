@@ -2,8 +2,9 @@
      padding-top: 50px;}
 .middle{background-color: #624F82;}
 .bottom{background-color: #9F73AB;}
-.contact-me{height: 275px;}
-.footer-link{color: #A3C7D6;
+.contact-me{color: #04587c;
+            height: 275px;}
+.footer-links{color: #04587c;
              margin-top: 2em;
              margin-right: 60px;}
 .skill-row{width: 50%;
@@ -49,12 +50,12 @@ hr{border-top: 10px dotted;
             width: 400px;}
 .computer{float: left;
           margin-right: 30px;
-          height: 400px;
-          width: 400px;}
+          height: 200px;
+          width: 200px;}
 .stocks{float: right;
         margin-left: 30px;
-        height: 400px;
-        width: 400px;}
+        height: 200px;
+        width: 200px;}
 .btn {background: #d41111;
       background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
       background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
